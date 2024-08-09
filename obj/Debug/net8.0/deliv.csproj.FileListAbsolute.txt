@@ -1,0 +1,14 @@
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\bin\Debug\net8.0\deliv.exe
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\bin\Debug\net8.0\deliv.deps.json
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\bin\Debug\net8.0\deliv.runtimeconfig.json
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\bin\Debug\net8.0\deliv.dll
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\bin\Debug\net8.0\deliv.pdb
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.AssemblyInfoInputs.cache
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.AssemblyInfo.cs
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.csproj.CoreCompileInputs.cache
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.dll
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\refint\deliv.dll
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.pdb
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\deliv.genruntimeconfig.cache
+C:\Users\ValeriiKharchenko\Documents\icstars\csharp\deliv\obj\Debug\net8.0\ref\deliv.dll
